@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Khodwe</h1>
-<h3 align="center">A passionate AI/ML and Data Science enthusiast from India , with a keen interest in Computer Vision</h3>
+<h3 align="center">A passionate AI/ML and Data Science enthusiast from India , with a keen interest in Machine Learning and Computer Vision</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
