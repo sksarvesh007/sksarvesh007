@@ -8,8 +8,6 @@ linkedin : https://www.linkedin.com/in/sarvesh-khodwe/
 
 twitter : https://x.com/SKSarvesh007
 
-resume : https://tinyurl.com/dndad3w3
-
 ---
 ### Now Playing
 
